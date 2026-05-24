@@ -167,7 +167,7 @@ class Program
 
                 if (next == 0)
                 {
-                    Console.WriteLine("Программа завершена.");
+                    Console.WriteLine("Программа завершена:).");
                     return;
                 }
                 else if (next == 2)
